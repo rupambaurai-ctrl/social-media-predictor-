@@ -4,6 +4,8 @@ A Machine Learning web application that predicts a user's social media well-bein
 
 🌐 Live Demo:
 
+https://st9jkfc7fwrufef78ctg4s.streamlit.app/
+
 ---
 
 ## ✨ Features
